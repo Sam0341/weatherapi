@@ -10,7 +10,7 @@ const PartB = () => {
     OrangeWalk: "312440",
     Dangriga: "312274",
     SaltLakeCityUtah: "2660788"
-    Spain: "715269"
+    MedrandaSpain: "715269"
   };
 
   const handleLocationChange = (e) => {

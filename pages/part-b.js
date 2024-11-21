@@ -9,7 +9,7 @@ const PartB = () => {
     LondonUnitedKingdom: "2782994",
     OrangeWalk: "312440",
     Dangriga: "312274",
-    SaltLakeCityUtah: "2660788"
+    SaltLakeCityUtah: "2660788",
     Spain: "715269"
   };
 
